@@ -1,5 +1,5 @@
-This repository contains the source cod of our microservice User Management.
-I am using Python  3.5.2
+This repository contains the source code of our microservice User Management.
+I am using Python  3.5.2 and SQLAlchemy.
  # Step 1
  install requirements :
  $ pip install -r requirements.txt
